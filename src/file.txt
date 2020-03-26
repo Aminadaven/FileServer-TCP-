@@ -1,0 +1,3 @@
+Samle FIle
+Delegen is cool.
+<EOF>
